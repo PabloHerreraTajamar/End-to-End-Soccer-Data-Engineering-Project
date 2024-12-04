@@ -18,7 +18,7 @@ This python-based project crawls data from https://en.wikipedia.org/wiki/List_of
 
 ## Web Crawling
 1. We open a terminal inside Databricks. We execute this commands: 
-```
+```bash
 touch requirements.txt
 nano requirements.txt
 ```
