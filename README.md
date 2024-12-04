@@ -22,19 +22,17 @@ This python-based project crawls data from https://en.wikipedia.org/wiki/List_of
 touch requirements.txt
 nano requirements.txt
 ```
-Se pega el contenido del fichero requirements.txt del repositorio.
-Una vez pegado y guardado el archivo, se ejecuta:
-
+2. Inside requirements.txt we add the contents in the file: https://github.com/PabloHerreraTajamar/End-to-End-Soccer-Data-Engineering-Project/blob/d12c1fb56bada62f50c5f4544ed923c7bd38a09e/Requirements/requirements.txt
+3. Once we have the content we execute:
+```bash
 pip install -r requirements.txt
+```
+This will copy install all the libraries and dependencies inside requirements.txt
+NOTE: there are more libraries and dependencies than the ones you need.
 
-Esto instalará las dependencias necesarias
-NOTA: hay más dependencias de las necesarias.
+4. When executing the notebook, it will excract and clean all the data from the stadiums from wikipedia, later on saving them into a Dataframe.
 
-Al ejecutar el notebook, extraerá los datos de la wikipedia, y limpiará los datos, convirtiendolos posteriormente en un DataFrame.
-
-El Dataframe se guarda en un contenedor del Datalake. Se debe cambiar la clave de acceso y el nombre del contenedor dependiendo del datalake storage.
-
-Una vez ejecutado, se verá el fichero con el contenido de todos los estadios.
+5. Finally, the dataframe is saved as a csv inside a container in a datalake. You must change de SSA Key and the name of the container to the ones in your Datalake storage.
 
 
 
