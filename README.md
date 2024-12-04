@@ -6,10 +6,10 @@ This python-based project crawls data from https://en.wikipedia.org/wiki/List_of
 
 1. [System Architecture](#system-architecture)
 2. [Requirements](#requirements)
-3. [Web Crawling](#how-it-works)
-4. [Azure](#video)
-5. [Power BI](#video)
-6. [Video](#video)
+3. [Web Crawling](#web-crawling)
+6. [Azure](#azure)
+7. [Power BI](#power-bi)
+8. [Video](#video)
 
 ## System Architecture
 ![system_architecture](https://github.com/user-attachments/assets/7afa1916-d20e-4151-9be5-95840d77fa98)
