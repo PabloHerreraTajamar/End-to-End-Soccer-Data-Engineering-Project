@@ -10,3 +10,6 @@ This python-based project crawls data from https://en.wikipedia.org/wiki/List_of
 4. [Azure](#video)
 5. [Power BI](#video)
 6. [Video](#video)
+
+## System Architecture
+![system_architecture](https://github.com/user-attachments/assets/7afa1916-d20e-4151-9be5-95840d77fa98)
