@@ -17,11 +17,11 @@ This python-based project crawls data from https://en.wikipedia.org/wiki/List_of
 ## Requirements
 
 ## Web Crawling
-Dentro de Databricks se abre una terminal, y se ejecuta 
-
+1. We open a terminal inside Databricks. We execute this commands: 
+```
 touch requirements.txt
 nano requirements.txt
-
+```
 Se pega el contenido del fichero requirements.txt del repositorio.
 Una vez pegado y guardado el archivo, se ejecuta:
 
