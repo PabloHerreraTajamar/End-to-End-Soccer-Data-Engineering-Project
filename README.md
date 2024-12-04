@@ -15,6 +15,18 @@ This python-based project crawls data from https://en.wikipedia.org/wiki/List_of
 ![system_architecture](https://github.com/user-attachments/assets/7afa1916-d20e-4151-9be5-95840d77fa98)
 
 ## Requirements
+1. Accounts:
+  - Databricks
+  - Power BI
+  - Microsoft
+2. Technologies:
+  - Azure Datalake Storage Gen 2
+  - Azure Databricks
+  - Python 3.12
+  - Pip
+  - Power BI
+  - Azure HDInsight
+  - Azure Data Factory
 
 ## Web Crawling
 1. We open a terminal inside Databricks. We execute this commands: 
