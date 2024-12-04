@@ -15,3 +15,26 @@ This python-based project crawls data from https://en.wikipedia.org/wiki/List_of
 ![system_architecture](https://github.com/user-attachments/assets/7afa1916-d20e-4151-9be5-95840d77fa98)
 
 ## Requirements
+
+## Web Crawling
+Dentro de Databricks se abre una terminal, y se ejecuta 
+
+touch requirements.txt
+nano requirements.txt
+
+Se pega el contenido del fichero requirements.txt del repositorio.
+Una vez pegado y guardado el archivo, se ejecuta:
+
+pip install -r requirements.txt
+
+Esto instalará las dependencias necesarias
+NOTA: hay más dependencias de las necesarias.
+
+Al ejecutar el notebook, extraerá los datos de la wikipedia, y limpiará los datos, convirtiendolos posteriormente en un DataFrame.
+
+El Dataframe se guarda en un contenedor del Datalake. Se debe cambiar la clave de acceso y el nombre del contenedor dependiendo del datalake storage.
+
+Una vez ejecutado, se verá el fichero con el contenido de todos los estadios.
+
+
+
