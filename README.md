@@ -19,6 +19,7 @@ This python-based project crawls data from https://en.wikipedia.org/wiki/List_of
   - Databricks
   - Power BI
   - Microsoft
+
 **Technologies:**
   - Azure Datalake Storage Gen 2
   - Azure Databricks
