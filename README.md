@@ -22,8 +22,7 @@ This python-based project crawls data from https://en.wikipedia.org/wiki/List_of
 touch requirements.txt
 nano requirements.txt
 ```
-2. Inside requirements.txt we add the contents in the file: https://github.com/PabloHerreraTajamar/End-to-End-Soccer-Data-Engineering-Project/blob/d12c1fb56bada62f50c5f4544ed923c7bd38a09e/Requirements/requirements.txt
-3. Once we have the content we execute:
+2. Inside requirements.txt we add the contents in the file: Requirements/requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
