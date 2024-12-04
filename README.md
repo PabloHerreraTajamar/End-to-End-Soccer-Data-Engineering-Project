@@ -14,7 +14,7 @@ This python-based project crawls data from https://en.wikipedia.org/wiki/List_of
 ## System Architecture
 ![system_architecture](https://github.com/user-attachments/assets/7afa1916-d20e-4151-9be5-95840d77fa98)
 
-## 2 Requirements
+## Requirements
 1. Accounts:
   - Databricks
   - Power BI
