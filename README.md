@@ -124,6 +124,10 @@ NOTE: there are more libraries and dependencies than the ones you need.
 25. Specify the path for upload the data on directory --> ready 
 ![14](https://github.com/user-attachments/assets/4640942f-9b86-4489-a06f-a5567c2c167e)
 
+## Power BI
 
+1. Connection
+Enter Power BI and go to retrieve data, then click on:
+![image](https://github.com/user-attachments/assets/67a29d8e-350c-4baf-ad86-73da062fa66d)
 
 
