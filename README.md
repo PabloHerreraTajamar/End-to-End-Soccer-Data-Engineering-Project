@@ -132,5 +132,10 @@ Enter Power BI and go to retrieve data, then click on:
 And we select our data table inside Synapse:
 ![image](https://github.com/user-attachments/assets/09c71b34-1d6d-4d63-a3ab-1563fb16e957)
 
+2. Insights
+Map of all the Stadiums 
+   ![image](https://github.com/user-attachments/assets/399eb947-a388-4487-be96-170f14adbc45)
+   In this Insight we can see a map of where is the exact location of each stadium.
+
 
 
