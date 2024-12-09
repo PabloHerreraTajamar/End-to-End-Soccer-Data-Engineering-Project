@@ -138,5 +138,8 @@ And we select our data table inside Synapse:
    ![image](https://github.com/user-attachments/assets/399eb947-a388-4487-be96-170f14adbc45)
    In this Insight we can see a map of where is the exact location of each stadium.
 
+- Stadiums by region
+  ![image](https://github.com/user-attachments/assets/a1c1a97a-5ae2-480a-b84a-e0ad63fd95a3)
+  In this Insight we can observe the number of stadiums from the 300 biggest stadiums in the world by region. We can observe the region with more stadiums in the list is europe and the one with the least is Oceania.
 
 
