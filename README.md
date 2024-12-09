@@ -82,6 +82,3 @@ NOTE: there are more libraries and dependencies than the ones you need.
 
 ![11](https://github.com/user-attachments/assets/2bd7ecc4-c319-480d-92b2-e4e38d108dc4)
 
-## Power BI
-1. Connection
-Enter Power BI and go to Obtain Data.
