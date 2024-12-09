@@ -150,4 +150,9 @@ In this Insight we can observe the number of stadiums from the 300 biggest stadi
 
 In this Insight we can observe the countries with more stadiums inside the top 300 list, being the one with more stadiums, USA.
 
+- More Capacity
+
+![image](https://github.com/user-attachments/assets/5e7f53de-a6c9-4005-9c73-7f51fd601eba)
+
+In this insight you can see the ranking by seeing the capacity of each stadium.
 
