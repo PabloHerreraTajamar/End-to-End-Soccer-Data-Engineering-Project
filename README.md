@@ -76,9 +76,12 @@ NOTE: there are more libraries and dependencies than the ones you need.
 9. Return to storage account and open Access key. You need to copy the connection string for upload the cvs on datafactory   
 ![imagen (5)](https://github.com/user-attachments/assets/35e5afcd-a3db-4584-9336-7edcd5402513)
 
-
 ![9](https://github.com/user-attachments/assets/136ee279-ab95-401f-8ea1-31890bd65904)
 
 ![10](https://github.com/user-attachments/assets/fb02bb7f-fb3a-4a6a-8ff2-246b619eabcf)
 
 ![11](https://github.com/user-attachments/assets/2bd7ecc4-c319-480d-92b2-e4e38d108dc4)
+
+## Power BI
+1. Connection
+Enter Power BI and go to Obtain Data.
