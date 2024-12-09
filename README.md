@@ -53,18 +53,23 @@ NOTE: there are more libraries and dependencies than the ones you need.
 ![1](https://github.com/user-attachments/assets/c0f3bec2-4b82-432f-9d4d-64e8bdb9b706)
 
 2. Realize the next configuration:
+
 ![2](https://github.com/user-attachments/assets/1becd5e9-4e24-48b1-8c32-24008f430603)
 
 3. In advanced select the option--> Enable hierarchical
+
 ![3](https://github.com/user-attachments/assets/55fd5bde-bbd3-4353-bd79-1f23f28345a8)
 
 4. When the storage account had created, go to Data storage/Containers
+
 ![4](https://github.com/user-attachments/assets/e3d503d0-bbf7-4511-93b7-4aa97d303282)
 
 5. Create a new container
+
 ![imagen (3)](https://github.com/user-attachments/assets/cfa23ab8-9197-40e4-ad9d-73e188657c4f)
 
 6. Open the container
+
 ![5](https://github.com/user-attachments/assets/284616c5-a09d-43de-99ee-482007e00422)
 
 7. In the container, Add new Directory
@@ -80,9 +85,11 @@ NOTE: there are more libraries and dependencies than the ones you need.
 ![9](https://github.com/user-attachments/assets/136ee279-ab95-401f-8ea1-31890bd65904)
 
 11. Configure the options 
+
 ![10](https://github.com/user-attachments/assets/fb02bb7f-fb3a-4a6a-8ff2-246b619eabcf)
 
 12. When the service is created, Launch Azure Data Factory Studio 
+
 ![11](https://github.com/user-attachments/assets/2bd7ecc4-c319-480d-92b2-e4e38d108dc4)
 
 13. Create a new pipeline
