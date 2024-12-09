@@ -36,9 +36,10 @@ This python-based project crawls data from https://en.wikipedia.org/wiki/List_of
 touch requirements.txt
 nano requirements.txt
 ```
-2. Inside requirements.txt we add the contents in the file: Requirements/requirements.txt
+2. Install the needed dependencies:
 ```bash
-pip install -r requirements.txt
+%pip install azure-storage-file-datalake
+
 ```
 This will copy install all the libraries and dependencies inside requirements.txt
 NOTE: there are more libraries and dependencies than the ones you need.
