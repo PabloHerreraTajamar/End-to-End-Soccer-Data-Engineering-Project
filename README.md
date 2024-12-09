@@ -73,15 +73,19 @@ NOTE: there are more libraries and dependencies than the ones you need.
 ![5](https://github.com/user-attachments/assets/284616c5-a09d-43de-99ee-482007e00422)
 
 7. In the container, Add new Directory
+
 ![5 1](https://github.com/user-attachments/assets/5734586e-c132-4010-a409-127bbfd6a2ad)
 
 8. We already have created the Directory
+
 ![5 2](https://github.com/user-attachments/assets/15fe9b07-41c5-4e76-a139-42c5a0e28e3c)
 
 9. Return to storage account and open Access key. You need to copy the connection string for upload the cvs on datafactory   
+
 ![imagen (5)](https://github.com/user-attachments/assets/35e5afcd-a3db-4584-9336-7edcd5402513)
 
 10. Create a service of Data factories
+
 ![9](https://github.com/user-attachments/assets/136ee279-ab95-401f-8ea1-31890bd65904)
 
 11. Configure the options 
@@ -93,42 +97,55 @@ NOTE: there are more libraries and dependencies than the ones you need.
 ![11](https://github.com/user-attachments/assets/2bd7ecc4-c319-480d-92b2-e4e38d108dc4)
 
 13. Create a new pipeline
+
 ![image](https://github.com/user-attachments/assets/78fd6b95-e753-4c96-abe7-c3972042dd1e)
 
 14. Open the pipeline and select the option --> Copy data
+
 ![2](https://github.com/user-attachments/assets/637c576b-c79d-4d2b-9ec5-94bba46bf843)
 
 15. On source, create a new source dataset
+
 ![3](https://github.com/user-attachments/assets/c666e650-db0c-4654-927f-78edac8ff33f)
 
 16. select Azure data lake storage gen 2
+
 ![4](https://github.com/user-attachments/assets/395bc48e-35b5-4633-ac72-64cfa2c6e207)
 
 17. Select csv format option 
+
 ![5](https://github.com/user-attachments/assets/4d0b490e-0e04-4f9f-87d6-9be66a7d33b1)
 
 18. Add new linked server for conect with the data of the container
+
 ![6](https://github.com/user-attachments/assets/951c20e0-f9b1-4e97-b0dc-80d6985c0a92)
 
 19. On the options select our storage account 
+
 ![7](https://github.com/user-attachments/assets/36a52843-3af1-4319-9aac-0c2cf0cf5bcf)
 
 20. On properties, select the path where you have the csv in the container created 
+
 ![8](https://github.com/user-attachments/assets/de5f87ec-6e8d-4750-abd1-1adefca4b4b1)
 
 21. Preview the data to check that it has been loaded correctly  
+
 ![9](https://github.com/user-attachments/assets/399fd52f-4f7b-49e3-afd9-2a2064eafd03)
 
 22. we check that they are loaded 
+
 ![imagen (8)](https://github.com/user-attachments/assets/88bb6f0c-e425-48f7-a8d2-160a7878e9b6)
 
 23. On sink, create a new dataset 
+
 ![11](https://github.com/user-attachments/assets/b4bd5658-085b-468e-bb24-d7ad2335b99e)
 
 24. Select azure data lake storage gen 2
+
 ![12](https://github.com/user-attachments/assets/12f2721f-64ee-4441-8112-44faef79bba6)
 
 25. Specify the path for upload the data on directory --> ready 
+
 ![14](https://github.com/user-attachments/assets/4640942f-9b86-4489-a06f-a5567c2c167e)
 
 ## Power BI
