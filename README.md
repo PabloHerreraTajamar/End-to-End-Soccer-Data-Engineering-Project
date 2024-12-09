@@ -129,5 +129,8 @@ NOTE: there are more libraries and dependencies than the ones you need.
 1. Connection
 Enter Power BI and go to retrieve data, then click on:
 ![image](https://github.com/user-attachments/assets/67a29d8e-350c-4baf-ad86-73da062fa66d)
+And we select our data table inside Synapse:
+![image](https://github.com/user-attachments/assets/09c71b34-1d6d-4d63-a3ab-1563fb16e957)
+
 
 
