@@ -210,3 +210,9 @@ In this Insight we can observe the countries with more stadiums inside the top 3
 
 In this insight you can see the ranking by seeing the capacity of each stadium.
 
+- Total Capacity By Region
+
+![image](https://github.com/user-attachments/assets/c343cb49-9f37-43f3-b196-2b7b31a11fab)
+
+In this insight we can see the total capacity of each region being Europe the one with more capacity and South Asia the one with the least.
+
