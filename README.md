@@ -241,35 +241,53 @@ NOTE: there are more libraries and dependencies than the ones you need.
 
 1. Connection
 Enter Power BI and go to retrieve data, then click on:
+
+
 ![image](https://github.com/user-attachments/assets/67a29d8e-350c-4baf-ad86-73da062fa66d)
+
+
 And we select our data table inside Synapse:
+
+
+
 ![image](https://github.com/user-attachments/assets/09c71b34-1d6d-4d63-a3ab-1563fb16e957)
 
 2. Insights
    
 - Map of all the Stadiums 
+
+
    ![image](https://github.com/user-attachments/assets/399eb947-a388-4487-be96-170f14adbc45)
 
 In this Insight we can see a map of where is the exact location of each stadium.
 
 - Stadiums by region
+
+
+
   ![image](https://github.com/user-attachments/assets/a1c1a97a-5ae2-480a-b84a-e0ad63fd95a3)
 
 In this Insight we can observe the number of stadiums from the 300 biggest stadiums in the world by region. We can observe the region with more stadiums in the list is europe and the one with the least is Oceania.
 
 - More Stadiums by Country
   
+
+
 ![image](https://github.com/user-attachments/assets/91b3b4b8-b73e-49de-ab2b-2b88dc04c386)
 
 In this Insight we can observe the countries with more stadiums inside the top 300 list, being the one with more stadiums, USA.
 
 - More Capacity
 
+
+
 ![image](https://github.com/user-attachments/assets/5e7f53de-a6c9-4005-9c73-7f51fd601eba)
 
 In this insight you can see the ranking by seeing the capacity of each stadium.
 
 - Total Capacity By Region
+
+
 
 ![image](https://github.com/user-attachments/assets/c343cb49-9f37-43f3-b196-2b7b31a11fab)
 
