@@ -151,53 +151,89 @@ NOTE: there are more libraries and dependencies than the ones you need.
 
 
 26. Create a service of Azure Synapse Analytics
+
+
 ![imagen (14)](https://github.com/user-attachments/assets/1ed7cba8-3e2a-4a15-8273-da82add1e8c1)
 
 27. Configure the options
+
+
 ![imagen (15)](https://github.com/user-attachments/assets/ed10669d-6737-41db-8b98-44884a862400)
 
 
 28. Open Azure Synapse Studio
+
+
 ![1](https://github.com/user-attachments/assets/5f84b9fe-833d-4dc7-bf1b-f9fa80c9a84d)
 
 
 29. Launch Azure Synapse Studio
+
+
 ![2](https://github.com/user-attachments/assets/8afda5f8-ebdd-477f-9f04-186e4e1e6279)
 
 
 30. In Synapse, Create a Lake database
+
+
+
 ![3](https://github.com/user-attachments/assets/96b7210d-5689-4807-8491-7b981a221e6d)
 
 
 31. Create a table from data lake
+
+
 ![4](https://github.com/user-attachments/assets/b830b225-a82a-45bc-860b-146ae632e424)
 
 32. Configure the table name an the linked served 
+
+
 ![5](https://github.com/user-attachments/assets/16a2952e-2c19-49a2-93dd-e77747a644e8)
 
 
 33. Create the external table
+
+
 ![6](https://github.com/user-attachments/assets/d5d4582a-8e99-42f8-b5b3-b3c438dae056)
 
 34. Publish the changes
+
+
+
 ![7](https://github.com/user-attachments/assets/741a9e87-eacf-4e78-872b-f539ca409d67)
 
 
 35. Create a Sql synapse
+
+
+
 ![8](https://github.com/user-attachments/assets/01132c92-99bd-4e13-a92b-a54190ab27a7)
 
 36. select our database
+
+
+
 ![9](https://github.com/user-attachments/assets/c4a81e4b-4de7-4024-ba6a-3fd354af75e5)
 
 
 37. Ejecute a query to select average stadium capacity by region 
+
+
+
 ![10](https://github.com/user-attachments/assets/abbb8d80-a32c-4242-a190-e2b47e1ccb80)
 
 
 38. Query to filter the stadium with max capacity by region 
+
+
+
 ![11](https://github.com/user-attachments/assets/82a1e33a-bb8b-49cb-bf29-1df4e203632c)
 
 39. Query to stadiums with a capacity greater than a certain value in a soecific country
+
+
+
+
 ![12](https://github.com/user-attachments/assets/93ebeaab-c45f-4f93-964e-15120a97991c)
 
 
